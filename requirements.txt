@@ -1,7 +1,7 @@
 transformers
 transformers[sentenceoiece]
 datasets
-sacreblue
+sacrebleu
 rouge_score
 py7zr
 pandas
